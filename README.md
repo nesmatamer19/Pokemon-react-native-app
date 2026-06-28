@@ -1,6 +1,6 @@
 # 📱 Pokédex App (React Native & Expo Router)
 
-Welcome to the **Pokédex App**! This is a clean, universal mobile application built with React Native and Expo that showcases data from the public [PokéAPI](https://pokeapi.co/). It utilizes modern file-based routing and hooks to fetch and present detailed information about your favorite Pokémon.
+This is a simple clean, universal mobile application built with React Native and Expo that showcases data from the public [PokéAPI](https://pokeapi.co/). It utilizes modern file-based routing and hooks to fetch and present detailed information about your favorite Pokémon.
 
 ## ✨ Features
 
@@ -27,4 +27,4 @@ Welcome to the **Pokédex App**! This is a clean, universal mobile application b
 Clone this repository to your local machine, open your terminal inside the root folder, and install the package requirements:
 
 ```bash
-npm install](https://chat.expo.dev): Chat with Expo users and ask questions.
+npm install
